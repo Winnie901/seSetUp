@@ -1,0 +1,9 @@
+name: COMP30830
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - numpy
+  - pandas
+prefix: /Users/iphone/opt/anaconda3/envs/COMP30830
